@@ -9,7 +9,6 @@ During the course in Noroff I learning the few concept and the assignment is abo
 
 ```bash
 npm I
-npm run build
 ```
 
 For SCSS/SASS:
